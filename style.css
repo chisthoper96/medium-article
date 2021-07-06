@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight:300; 
+}
+.banner{
+    position: relative;
+    background-image: url(cafeteria.jpg);
+    width: 100%;
+    height: 450px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+.text-center{
+    align-items: center;
+    padding: 300px 10px;
+}
+
+h2{
+    line-height: 40px;
+    font-weight: 100;
+    font-style: italic;
+
+}
+
+.cuerpo{
+    margin:40px 300px;
+}
+
+a{
+    text-decoration: none;
+    background-color:yellowgreen;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: italic;
+}
+a:hover{
+    background-color: gold;
+}
